@@ -12,7 +12,7 @@ const Index = () => {
         <title>Dentální hygiena - Eva Zvánovcová</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
-      <h1>Eva Zvánovcová</h1>
+      <h1>Dentální Hygiena - Eva Zvánovcová</h1>
       <img width="220" height="220" src="/static/photo.png" />
       <p>Vzdělání</p>
       <ul>
